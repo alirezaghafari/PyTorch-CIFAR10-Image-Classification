@@ -1,0 +1,35 @@
+# macOS system files
+.DS_Store
+
+# Xcode
+*.swiftpm
+*.xcuserstate
+xcuserdata/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.build/
+
+# macOS application files
+*.app/
+
+# TextMate
+*.tmproj
+*.tmproject
+tmtags
+
+# JetBrains
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# macOS folder attributes
+.Spotlight/
+.Trashes
+
